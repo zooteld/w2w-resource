@@ -1,2 +1,2 @@
-# conceal-assets
-Digital asset storage for Conceal
+# W2W Resource
+Digital asset storage W2W
